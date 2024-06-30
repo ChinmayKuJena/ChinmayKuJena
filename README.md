@@ -2,11 +2,10 @@
 <h3 align="center">A passionate backend{Spring Boot} developer</h3>
 
 - 🔭 I’m currently working on [TourGuid](https://github.com/ChinmayKuJena/TOURGUID-backend)
-
-- 🌱 I’m currently learning **Spring Boot , Django & ReactJs**
-
 - 🔭Also working on [Dynamic Consumer](https://github.com/ChinmayKuJena/Kafka-consumer)
 
+- 🌱 I’m currently learning **Spring Boot , Django & ReactJs**
+- 
 - 🤝 I’m looking for help with [TourGuid{frontend--Django,react}](https://github.com/ChinmayKuJena/TOURGUID-frontend)
 
 - 📫 How to reach me **chinmay.jena7878@gmail.com**
