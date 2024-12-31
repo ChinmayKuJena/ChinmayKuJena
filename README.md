@@ -21,7 +21,7 @@
 
 - 👨‍💻 I am also interning at [Skytreesoft](https://skytreesoft.com/ourteam) as a <b>Backend Developer and AWS Specialist</b> where I have developed custom image scraping tools using <b>Python</b> and facilitated communication between **AWS services** like <b>SQS</b>, <b>S3</b> and <b>RDS</b>.
 
-For more details, feel free to contact me at: **chinmay.jena@skytreesoft.com**
+For more details, feel free to contact me at: **chinmay.jena7878@gmail.com**
 
 ---
 
