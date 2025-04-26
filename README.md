@@ -13,10 +13,12 @@
 
 <h3 align="left">💼 Internships:</h3>  
 
-- 👨‍💻 I am doing an internship at [Sandaltreesoft](https://sandaltreesoft.com/about) as a **Backend Developer**, where I am working on creating models that integrate **Google Maps API** to provide detailed shop listings.  
+- 👨‍💻 I have completed an internship at [Sandaltreesoft](https://sandaltreesoft.com/about) as a **Backend Developer**, where I was working on creating models that integrate **Google Maps API** to provide detailed shop listings.  
 
-- 👨‍💻 I am also interning at [Skytreesoft](https://skytreesoft.com/ourteam) as a **Backend Developer and AWS Specialist**, where I have developed custom image scraping tools using **Python** and facilitated communication between **AWS services** like **SQS**, **S3**, and **RDS**.  
+- 👨‍💻 I have completed internship at [Skytreesoft](https://skytreesoft.com/ourteam) as a **Backend Developer and AWS Specialist**, where I have developed custom image scraping tools using **Python** and facilitated communication between **AWS services** like **SQS**, **S3**, and **RDS**.  
 
+- 🚀 Currently working at [KalpaniX Technologies](https://kalpanix.com/) as a **Software Developer**, building scalable backend solutions.
+- 
 For more details, feel free to contact me at: **chinmay.jena7878@gmail.com**
 
 ---
