@@ -18,8 +18,7 @@
 - 👨‍💻 I have completed internship at [Skytreesoft](https://skytreesoft.com/ourteam) as a **Backend Developer and AWS Specialist**, where I have developed custom image scraping tools using **Python** and facilitated communication between **AWS services** like **SQS**, **S3**, and **RDS**.  
 
 - 🚀 Currently working at [KalpaniX Technologies](https://kalpanix.com/) as a **Software Developer**, building scalable backend solutions.
-- 
-For more details, feel free to contact me at: **chinmay.jena7878@gmail.com**
+- For more details, feel free to contact me at: **chinmay.jena7878@gmail.com**
 
 ---
 
